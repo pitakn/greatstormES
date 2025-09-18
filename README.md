@@ -54,7 +54,7 @@ This README file was generated on [2025-09-18] by [KATIE PITA]
 ## 3.0 ACCESS, USAGE, SHARING, AND INTELLECTUAL PROPERTY INFORMATION 
 ---------------------------------------------------------------------
 
-3.1 Data licenses and restrictions: <A license defines what can and cannot be done with your data once made freely available. The most common data licenses are Creative Commons (CC) (https://creativecommons.org/choose/) and Open Data Commons (https://opendatacommons.org/). If you are depositing your data in the University of Waterloo Dataverse, you will select a CC license from the drop-down menu> 
+3.1 Data licenses and restrictions: All work is not yet peer-reviewed and is still in preparation. Not for reproduction or repurposing of any kind.
 
 3.2 Related publications, outputs, and datasets: Woodland ecosystem services of the past and present in Herstmonceux, South England. Thesis.
 
