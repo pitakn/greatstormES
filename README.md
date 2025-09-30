@@ -69,7 +69,7 @@ This README file was generated on [2025-09-18] by [KATIE PITA]
 
 4.1 Methods for collecting/creating data: Data were collected from WoS and Scopus for academic articles, and from Newspapers.com for newspaper articles. 20 newspaper articles and 44 academic articles (including 2 government documents) were reviewed.
 
-4.2 Methods for processing data: Documents were read in full and coded according to deductive thematic analysis using ecosystem services as a guiding framework for code hierarchy and organization.
+4.2 Methods for processing data: Documents were read in full and coded according to inductive and deductive thematic analysis using ecosystem services as a guiding framework for code hierarchy and organization.
 
 --------------------------------- 
 ## 5.0 DATA-SPECIFIC INFORMATION 
