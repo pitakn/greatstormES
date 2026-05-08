@@ -1,6 +1,6 @@
 ################################################################################## 
 ----------------------------------------------------------------------------------- 
-This README file was generated on [2025-09-18] by [KATIE PITA] 
+This README file was generated on [2025-09-18] by [redacted for peer review purposes] 
 ----------------------------------------------------------------------------------- 
 
 --------------------------- 
@@ -8,35 +8,7 @@ This README file was generated on [2025-09-18] by [KATIE PITA]
 --------------------------- 
 1.1 Title of dataset:  Ecosystem services provided by trees and woodlands considered of value to United Kingdom society after the Great Storm of October 15-16 1987.
 
-1.2. Author information: 
-
-1.2.1 Author/Principal Investigator Information  
- Name: Katie Pita
- Institution: University of Waterloo 
- Faculty:  Environment
- Email:  kpita@uwaterloo.ca
- ORCID ID: 0009-0008-1305-6261
-
-1.2.2. Author/Co-investigator/Contributor Information 
- Name:  Andrew Trant
- Institution: University of Waterloo
- Faculty:  Environment
- Email: atrant@uwaterloo.ca
- ORCID ID: 
-
-1.2.3 Author/Contributor Information 
- Name:  Steven Bednarski
- Institution: University of Waterloo (St. Jerome's University) 
- Faculty:  Department of History
- Email: steven.bednarski@uwaterloo.ca
- ORCID ID: 
-
-1.2.4 Author/Contributor Information 
- Name: Graham Epstein
- Institution: University of Waterloo 
- Faculty:  Environment
- Email: graham.epstein@uwaterloo.ca
- ORCID ID: 0000-0003-3431-8511
+1.2. Author information: [redacted for peer review purposes]
 
 1.3 Data collection date(s): 2023-11-01 to 2025-09-18
 
