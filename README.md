@@ -14,7 +14,7 @@ This README file was generated on [2025-09-18] by [KATIE PITA]
  Name: Katie Pita
  Institution: University of Waterloo 
  Faculty:  Environment
- Email:  kpita@uwaterloo.ca
+ Email:  kpita@uwaterloo.ca / kpita@mtroyal.ca
  ORCID ID: 0009-0008-1305-6261
 
 1.2.2. Author/Co-investigator/Contributor Information 
